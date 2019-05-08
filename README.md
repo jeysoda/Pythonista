@@ -5,11 +5,11 @@
 
 # Preview
 
-### Screenshot
+### Jupyter Notebooks logo
 
 ![Jupyter Notebooks logo](https://cdn-images-1.medium.com/max/2600/1*LPnY8nOLg4S6_TG0DEXwsg.png)
 
-### Project Jypyter Site: [Here](https://jupyter.org/)
+### Project Jupyter Site: [Here](https://jupyter.org/)
 
 ### Table Of Content
 - [Getting Started](#getting-started)
